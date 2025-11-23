@@ -4,4 +4,7 @@ This internship is supervised by Prof. Henrikki Tenkanen and Dr. Subhrasankha De
 The title for my internship project is "Mapping Dynamic Public Transportation Carbon Emissions at Helsinki".  
 Some of the comments or codes may contain a little bit of Chinese. Generally they do not affect the final result, but do take care about the potential reading errors for Chinese characteristics on your laptop.  
 If you have any doubts or questions regarding these documents, please feel free to contact me via Email address: <wenrui.dai611@gmail.com>.  
-谢谢！Thanks! Merci! Kiitos!
+谢谢！  
+Thanks!  
+Merci!  
+Kiitos!
