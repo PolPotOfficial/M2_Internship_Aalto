@@ -1,0 +1,7 @@
+In this folder you will see four R script files.
+
+They show how I use R5r to compute the travel matrix, based on the OD pairs that I got.
+
+The reason I jumped to R from Python in this part is because R5py cannot deliver me correct results -- I can only receive the matrices for mode WALK.
+
+The outputs are the files in folder "Data_OD Matrix".

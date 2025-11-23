@@ -1,0 +1,5 @@
+In this folder you will see two Jupyter Notebook files.
+
+They show how I select and extract the data of origins and destinations data from the raw data file.
+
+Due to confidentiality issue, I'm sorry that I cannot share the raw data file here.

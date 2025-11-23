@@ -1,0 +1,7 @@
+In this folder you will see one Jupyter Notebook file.
+
+It shows how I merge and filter the data, and deliver a final result.
+
+Change the name of the path to compute results at different dates.
+
+Please use the temporary GPKG files that you saved from last step. The outputs are the GPKG files in folder "Data_Visualization".

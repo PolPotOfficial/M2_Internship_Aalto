@@ -1,0 +1,5 @@
+In this folder you will see four Jupyter Notebook files.
+
+They show how I visualize the result and export figures for analysis.
+
+Please use the file in folder "Data_Visualization" to compute the code.

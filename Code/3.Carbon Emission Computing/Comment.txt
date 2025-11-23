@@ -1,0 +1,7 @@
+In this folder you will see one Jupyter Notebook file.
+
+It shows how I compute CO2 emission based on the OD matrices, using LCA carbon emission data.
+
+Please use the file in folder "Data_OD Matrix" to compute the code.
+
+Note: After computing you will have several temporary GPKG files. Please DO NOT delete them.
